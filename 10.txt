@@ -1,0 +1,4 @@
+dev , master
+1. switch to dev
+2. rebase 'dev'  upstream 'master'
+3. push --force
